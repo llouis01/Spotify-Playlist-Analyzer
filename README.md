@@ -24,6 +24,8 @@ Spotify playlist updates every 7 days. The goal of this app is to analyze and pr
 8. *Instrumentation
 9. *Voice type
 
+*Maybe
+
 ## Resources
 Name | Website
 ------------ | -------------
