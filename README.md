@@ -12,3 +12,6 @@ Spotify playlist updates every 7 days. The goal of this app is to analyze and pr
 ## Approaches
 1. Webscraping
 2. Unsupervised Machine Learning
+
+## Resources
+Spotify Scraper: https://pypi.org/project/spotifyscraper
