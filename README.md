@@ -13,6 +13,18 @@ Spotify playlist updates every 7 days. The goal of this app is to analyze and pr
 1. Webscraping
 2. Unsupervised Machine Learning
 
+## Analyses
+1. Track name
+2. Release date
+3. Album track numbers
+4. Artist's popularity
+5. Weighted by weeks featured in playlist
+6. Tempo
+7. *Instrumentation
+8. *Voice type
+
+
+
 ## Resources
 Name | Website
 ------------ | -------------
