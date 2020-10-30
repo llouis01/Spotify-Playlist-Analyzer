@@ -15,3 +15,4 @@ Spotify playlist updates every 7 days. The goal of this app is to analyze and pr
 
 ## Resources
 Spotify Scraper: https://pypi.org/project/spotifyscraper
+Spotify Scraper Documentation: https://spotifyscraper.readthedocs.io/en/latest/
