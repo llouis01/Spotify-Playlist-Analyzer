@@ -21,8 +21,8 @@ Spotify playlist updates every 7 days. The goal of this app is to analyze and pr
 5. Artist's popularity
 6. Weighted by weeks featured in playlist
 7. Tempo
-8. *Instrumentation
-9. *Voice type
+8. *Instrumentation*
+9. *Voice type*
 
 *Maybe
 
