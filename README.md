@@ -2,7 +2,7 @@
 This application tracks Spotify playlist to analyze audience song preferences.
 
 ## Abstract
-Spotify playlist updates every 7 days. The goal of this app is to analyze and predict the heterogeneous audience preferences in different dimensions by monitoring the songs on the playlist over time.
+Spotify playlists update every 7 days. The goal of this app is to analyze and predict the heterogeneous audience preferences in different dimensions by monitoring the songs on the playlist over time.
 
 ## Introduction
 Musicians are struggling to balance their passion for music with the need to be knowledgeable about the business side of the industry. The good news is the recorded music industry is still growing. According to the IFPI, in 2018, the global recorded music market grew by 9.7% and streaming revenue grew by 34.0%. At the same time, there has been a 10.1% decline in physical revenue and a 21.2% decline in download revenue. 
