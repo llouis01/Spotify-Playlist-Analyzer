@@ -40,3 +40,4 @@ Name | Website
 ------------ | -------------
 Spotify Scraper | https://pypi.org/project/spotifyscraper
 Spotify Scraper Documentation | https://spotifyscraper.readthedocs.io/en/latest
+Spotify Scraper Source | https://github.com/AliAkhtari78/SpotifyScraper/tree/master/SpotifyScraper
