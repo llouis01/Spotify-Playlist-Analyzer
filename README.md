@@ -41,3 +41,5 @@ Name | Website
 Spotify Scraper | https://pypi.org/project/spotifyscraper
 Spotify Scraper Documentation | https://spotifyscraper.readthedocs.io/en/latest
 Spotify Scraper Source | https://github.com/AliAkhtari78/SpotifyScraper/tree/master/SpotifyScraper
+Spotify for Developers | https://developer.spotify.com
+Spotify Web API Source | https://github.com/spotify/web-api-auth-examples
