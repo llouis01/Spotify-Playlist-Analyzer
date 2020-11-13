@@ -13,8 +13,8 @@ Just like people nowadays would not switch back to direct electric current, it i
 
 
 ## Product Outline
-1. We first test this model with one playlist for my new album song selection. 
-2. Then we monitor all playlists.
+1. We first test this model with one playlist
+2. Then we monitor all playlists
 3. Analytics insights for musicians/ producers
 
 ## Approaches
